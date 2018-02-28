@@ -1,7 +1,7 @@
 # ssd_sort
-This is a simple multi-person tracking system
-Detector:[SSD](https://github.com/weiliu89/caffe/tree/ssd)
-Association:[Sort](https://github.com/abewley/sort)
+This is a simple multi-person tracking system.
+Detector:[SSD](https://github.com/weiliu89/caffe/tree/ssd).
+Association:[Sort](https://github.com/abewley/sort).
 
 ![Image text](https://raw.githubusercontent.com/SpyderXu/ssd_sort/master/example.png)
 
