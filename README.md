@@ -7,11 +7,12 @@ Association:[Sort](https://github.com/abewley/sort)
 
 
 @inproceedings{liu2016ssd,
-  title = {{SSD}: Single Shot MultiBox Detector},
-  author = {Liu, Wei and Anguelov, Dragomir and Erhan, Dumitru and Szegedy, Christian and Reed, Scott and Fu, Cheng-Yang and Berg, Alexander C.},
-  booktitle = {ECCV},
-  year = {2016}
-}
+      title = {{SSD}: Single Shot MultiBox Detector},
+      author = {Liu, Wei and Anguelov, Dragomir and Erhan, Dumitru and Szegedy, Christian and Reed, Scott and Fu, Cheng-Yang and Berg, Alexander C.},
+      booktitle = {ECCV},
+      year = {2016}
+    }
+
 
 @inproceedings{Bewley2016_sort,
   author={Bewley, Alex and Ge, Zongyuan and Ott, Lionel and Ramos, Fabio and Upcroft, Ben},
