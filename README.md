@@ -5,7 +5,7 @@ This is a simple multi-person tracking system.<br>
 
 ### Instruction
 
-To run this code，you should install [SSD](https://github.com/weiliu89/caffe/tree/ssd) and build the python interface. A pretrained person detector caffemodel is also needed for the detector. The image sequence should be stored under sequence folder. Some deploy files are under model folder. Run detrk.py to see the detection and association results. You can also edit some arguments to meet different situations.
+To run this code，you should install [SSD](https://github.com/weiliu89/caffe/tree/ssd) and build the python interface. A pretrained person detector caffemodel is also needed for the detector. Our pretrained [caffemodel](https://jbox.sjtu.edu.cn/1/cuaFUs) is also supplied. The image sequence should be stored under sequence folder. Some deploy files are under model folder. Run detrk.py to see the detection and association results. You can also edit some arguments to meet different situations.
 
 ### Result
 <div align=center><img width="640" height="480" src="https://raw.githubusercontent.com/SpyderXu/ssd_sort/master/example.png"/></div>
